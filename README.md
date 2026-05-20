@@ -1,5 +1,5 @@
 # javascript-basics
-This repository contains my JavaScript learning notes and mini exercises.
+# This repository contains my JavaScript learning notes and mini exercises.
 
 Topics covered:
 - Variables
